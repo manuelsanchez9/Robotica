@@ -1,9 +1,9 @@
-a=inputdlg('Ingrese los valores para el VECTOR 1, en R a la 2');
-a=str2num(a{1});
-b=inputdlg('Ingrese los valores para el VECTOR 2, en R a la 2');
-b=str2num(b{1});
-% a=[0 1; 0 3];
-% b=[0 -3; 0 -4];
+% a=inputdlg('Ingrese los valores para el VECTOR 1, en R a la 2');
+% a=str2num(a{1});
+% b=inputdlg('Ingrese los valores para el VECTOR 2, en R a la 2');
+% b=str2num(b{1});
+a=[0 1; 0 3];
+b=[0 -3; 0 -4];
 a1=[b(1,2) b(1,2)+a(1,2);b(2,2) b(2,2)+a(2,2)];
 b1=[a(1,2) a(1,2)+b(1,2);a(2,2) a(2,2)+b(2,2)];
 plot(a(1,:),a(2,:)) 
