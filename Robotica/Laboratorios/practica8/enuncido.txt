@@ -1,0 +1,1 @@
+comunicar en tiempo real arduino con el robot de forma tal que con potenciometros puedan mover cada una de las componentes del robot de forma correcta

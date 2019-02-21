@@ -1,0 +1,1 @@
+diseññar y construir un robot dee 3 grados de libertad con solidos que se posiciones usando slider los 3 segmentos
